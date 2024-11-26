@@ -1,0 +1,24 @@
+{
+  "name": "github-bot",
+  "version": "1.0.0",
+  "description": "Im a web developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lloydbutay123/github-bot.git"
+  },
+  "author": "John Lloyd Butay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lloydbutay123/github-bot/issues"
+  },
+  "homepage": "https://github.com/lloydbutay123/github-bot#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.30.1",
+    "simple-git": "^3.27.0"
+  }
+}
